@@ -1,5 +1,7 @@
 # UAVCapstonePathTwo
-![](turbo.jpg)
+<p align="center">
+  <img src="turbo.jpeg">
+</p>
 This portion of our project was one we explored but ultimately set aside after more suitable options were found.
 
 
