@@ -1,5 +1,5 @@
 # UAVCapstonePathTwo
-![https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw0ec4fcaf/Images/EFL/EFL105250_A01_0IH24YWU.jpg?sw=800&sh=800&sm=fit](https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw0ec4fcaf/Images/EFL/EFL105250_A01_0IH24YWU.jpg?sw=800&sh=800&sm=fit.png)
+![](https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw0ec4fcaf/Images/EFL/EFL105250_A01_0IH24YWU.jpg?sw=800&sh=800&sm=fit.png)
 This portion of our project was one we explored but ultimately set aside after more suitable options were found.
 
 
